@@ -190,6 +190,14 @@ html{
     margin-top: 19px;
 }
 
+
+.thumbnail {
+    width: 250px;
+    border: 2px solid black;
+    border-radius: 26px;
+    margin-top: 19px;
+}
+
 .contact{
     background: rgb(240, 237, 237);
     height: 800px;
